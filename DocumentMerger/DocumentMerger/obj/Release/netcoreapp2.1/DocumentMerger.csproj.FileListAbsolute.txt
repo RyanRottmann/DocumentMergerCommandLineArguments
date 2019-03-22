@@ -1,0 +1,11 @@
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/bin/Release/netcoreapp2.1/DocumentMerger.deps.json
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/bin/Release/netcoreapp2.1/DocumentMerger.runtimeconfig.json
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/bin/Release/netcoreapp2.1/DocumentMerger.runtimeconfig.dev.json
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/bin/Release/netcoreapp2.1/DocumentMerger.dll
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/bin/Release/netcoreapp2.1/DocumentMerger.pdb
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.csprojAssemblyReference.cache
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.csproj.CoreCompileInputs.cache
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.AssemblyInfoInputs.cache
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.AssemblyInfo.cs
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.dll
+/Users/ryanrottmann/Documents/CS2040/DocumentMerger2/DocumentMerger/DocumentMerger/obj/Release/netcoreapp2.1/DocumentMerger.pdb

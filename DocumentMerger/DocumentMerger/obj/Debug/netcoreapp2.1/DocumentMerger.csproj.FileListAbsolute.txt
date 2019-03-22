@@ -1,0 +1,11 @@
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.deps.json
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.json
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.dev.json
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.pdb
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfoInputs.cache
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfo.cs
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.pdb
+C:\Users\rottm\Documents\IT2040\documentmerger2\DocumentMerger\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csprojAssemblyReference.cache
